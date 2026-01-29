@@ -14,6 +14,9 @@ Neste tutorial prático você vai aprender:
 ✅ Interação Básica: A lógica por trás da mecânica de "clicar e coletar".
 
 É o projeto perfeito para quem está começando do zero e quer ver resultado rápido na tela.
+
+##Recursos utilizados no jogo
+
 Assets utilizados no jogo: https://pixelfrog-assets.itch.io/tiny-swords
 
 ## Link para o curso no YouTube
