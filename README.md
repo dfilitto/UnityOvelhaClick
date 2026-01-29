@@ -20,4 +20,4 @@ Neste tutorial prático você vai aprender:
 Assets utilizados no jogo: https://pixelfrog-assets.itch.io/tiny-swords
 
 ## Link para o curso no YouTube
-Cliue no [link](https://www.youtube.com/playlist?list=PLfvOpw8k80WoeujBAXr09Vc2W_DpEZaPm) para acessar os vídeos do curso.
+Cliue no [link](https://www.youtube.com/playlist?list=PLfvOpw8k80WppJeU0EO2KGJramwADlQzc) para acessar os vídeos do curso.
