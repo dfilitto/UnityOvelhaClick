@@ -6,8 +6,11 @@ Preparei um material especial para INICIANTES! Vamos construir juntos o jogo "Ov
 
 Mas o jogo é só a desculpa! O verdadeiro objetivo é te ensinar as ferramentas essenciais do desenvolvimento 2D profissional.
 Neste tutorial prático você vai aprender: 
+
 ✅ Tilemaps e Tilesets: Como pintar cenários inteiros rapidamente (adeus, trabalho braçal!). 
+
 ✅ Montagem de Cena: Como inserir personagens e elementos no mundo do jogo do jeito certo. 
+
 ✅ Interação Básica: A lógica por trás da mecânica de "clicar e coletar".
 
 É o projeto perfeito para quem está começando do zero e quer ver resultado rápido na tela.
